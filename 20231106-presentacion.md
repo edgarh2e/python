@@ -1,7 +1,13 @@
 # Almacear,  Procesar/Transformar y Transmitir información es un proceso complejo que al día de hoy y a pesar de todas las herramientas que tenemos, aún es complejo y en algunos casos sensible a "perdida" o corrupción
 
 
-## Notas de interés: [Sci-Hub](https://es.wikipedia.org/wiki/Sci-Hub)
+## Notas de interés: 
+
+[Sci-Hub](https://es.wikipedia.org/wiki/Sci-Hub)
+
+[Presa de la mula](https://www.google.com/search?q=presa+de+la+mula&tbm=isch&chips=q:presa+de+la+mula,online_chips:pinturas+rupestres:Is_k7Ghz4YA%3D&hl=es-419&sa=X&ved=2ahUKEwjx-5DxpLGCAxXxPN4AHRb3B6EQ4lYoAnoECAEQMw&biw=1680&bih=965)
+
+[Solsticio boca de potreritos](https://www.google.com/search?q=solsticio+boca+de+potreritos&sca_esv=580046813&tbm=isch&sxsrf=AM9HkKmWHtjUNgXNxGrwaZZcRBJ46ECIJg:1699339602812&source=lnms&sa=X&ved=2ahUKEwjnioOrpbGCAxWplWoFHdtUAR4Q_AUoAXoECAEQAw&biw=1680&bih=965&dpr=2) 
 
 
 # Idea inicial
